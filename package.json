@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "./packages/*"
+  ],
+  "author": "Filipe Dias",
+  "license": "MIT"
+}
