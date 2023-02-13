@@ -10,6 +10,12 @@ Para que os `tokens` estejam disponíveis para uso no pacote `react` será neces
 npm i && npm run build
 ```
 
+Da mesma forma, para que os componentes do pacote `react` estejam disponíveis para uso no `storybook` do pacote `docs`, será necessário gerar a build dos componentes. Para isso execute os seguinte comandos em `~/ignite-design-system/packages/react`:
+
+```
+npm i && npm run build
+```
+
 ## Componentes
 
 - [ ] Avatar
