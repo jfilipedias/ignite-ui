@@ -3,6 +3,13 @@
   "workspaces": [
     "./packages/*"
   ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
   "author": "Filipe Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "^1.7.4"
+  }
 }
