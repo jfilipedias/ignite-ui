@@ -16,6 +16,12 @@ out/
 build
 dist
 
+# storybook
+storybook-static
+
+# turbo repo
+.turbo
+
 # misc
 .DS_Store
 *.pem
