@@ -2,18 +2,24 @@
 
 ## Getting Started
 
-Uma vez que o pacote `docs` utiliza o `storybook v6.5` será necessário utilizar o [Node.js 16](https://nodejs.org/en/download/releases/) 
+Uma vez que o pacote `docs` utiliza o `storybook v6.5` será necessário utilizar o [Node.js 16](https://nodejs.org/en/download/releases/)
 
-Para que os `tokens` estejam disponíveis para uso no pacote `react` será necessário gerar a build do pacote. Para isso execute os seguinte comandos em `~/ignite-design-system/packages/tokens`:
-
-```
-npm i && npm run build
-```
-
-Da mesma forma, para que os componentes do pacote `react` estejam disponíveis para uso no `storybook` do pacote `docs`, será necessário gerar a build dos componentes. Para isso execute os seguinte comandos em `~/ignite-design-system/packages/react`:
+Instale as dependências do projeto:
 
 ```
-npm i && npm run build
+npm i
+```
+
+Uma vez que o projeto utiliza o [Turborepo](https://turbo.build/repo) para sua pipeline de `dev` e `build`, basta executar o comando a seguir para iniciar os pacotes em ambiente de desenvolvimento:
+
+```
+npm run dev
+```
+
+Para gerar a build de cada pacote basta executar o comando:
+
+```
+npm run build
 ```
 
 ## Componentes
