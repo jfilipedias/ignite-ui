@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/jfilipedias.png',
     alt: 'Filipe Dias',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 type Story = StoryObj<AvatarProps>

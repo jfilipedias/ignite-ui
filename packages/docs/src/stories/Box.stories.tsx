@@ -14,6 +14,13 @@ export default {
       </Text>
     ),
   },
+  argTypes: {
+    children: {
+      control: {
+        type: null,
+      },
+    },
+  },
 } as Meta<BoxProps>
 
 type Story = StoryObj<BoxProps>
