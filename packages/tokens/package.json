@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@ignite-ui-filipe/tokens",
   "version": "1.0.0",
   "description": "Design system tokens",
   "main": "./dist/index.js",
