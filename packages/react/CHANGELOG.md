@@ -1,5 +1,11 @@
 # @ignite-ui-filipe/react
 
+## 1.1.0
+
+### Minor Changes
+
+- Creates the Tooltip component
+
 ## 1.0.4
 
 ### Patch Changes
