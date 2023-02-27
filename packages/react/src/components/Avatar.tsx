@@ -4,8 +4,8 @@ import { styled } from '@/styles'
 
 const AvatarRoot = styled(AvatarPrimitive.Root, {
   display: 'inline-block',
-  width: '$12',
-  height: '$12',
+  width: '$16',
+  height: '$16',
   borderRadius: '$full',
   overflow: 'hidden',
 })
