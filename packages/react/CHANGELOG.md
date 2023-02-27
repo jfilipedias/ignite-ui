@@ -1,5 +1,11 @@
 # @ignite-ui-filipe/react
 
+## 1.0.3
+
+### Patch Changes
+
+- Fix tsconfig and eslint extension
+
 ## 1.0.2
 
 ### Patch Changes
