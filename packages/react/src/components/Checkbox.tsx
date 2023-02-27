@@ -19,10 +19,9 @@ const CheckboxRoot = styled(CheckboxPrimitive.Root, {
 
   '&[data-state="checked"]': {
     backgroundColor: '$ignite300',
-    border: '2px solid $ignite300',
   },
 
-  '&:focus': {
+  '&:focus, &[data-state="checked"]': {
     border: '2px solid $ignite300',
   },
 })
