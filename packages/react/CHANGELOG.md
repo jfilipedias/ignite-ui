@@ -1,5 +1,11 @@
 # @ignite-ui-filipe/react
 
+## 1.0.2
+
+### Patch Changes
+
+- Updates the dependency names
+
 ## 1.0.1
 
 ### Patch Changes

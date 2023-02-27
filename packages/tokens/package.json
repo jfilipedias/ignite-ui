@@ -1,6 +1,6 @@
 {
   "name": "@ignite-ui-filipe/tokens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Design system tokens",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -12,8 +12,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ignite-ui-filipe/eslint-config": "*",
+    "@ignite-ui-filipe/ts-config": "*",
     "tsup": "^6.6.0",
     "typescript": "^4.9.5"
   }
