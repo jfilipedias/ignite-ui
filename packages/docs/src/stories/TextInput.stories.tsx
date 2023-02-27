@@ -38,5 +38,6 @@ export const Disabled: Story = {
 export const WithPrefix: Story = {
   args: {
     prefix: 'cal.com/',
+    placeholder: 'your-username',
   },
 }
