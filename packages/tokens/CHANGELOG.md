@@ -1,5 +1,11 @@
 # @ignite-ui-filipe/tokens
 
+## 1.0.2
+
+### Patch Changes
+
+- Fix tsconfig extension
+
 ## 1.0.1
 
 ### Patch Changes
