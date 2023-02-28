@@ -1,5 +1,11 @@
 # @ignite-ui-filipe/react
 
+## 1.2.0
+
+### Minor Changes
+
+- Creates the Toast component
+
 ## 1.1.0
 
 ### Minor Changes
