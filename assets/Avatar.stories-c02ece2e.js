@@ -1,0 +1,2 @@
+import{A as t}from"./index-1d2d616b.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const p={title:"Data display/Avatar ",component:t,args:{src:"https://github.com/jfilipedias.png",alt:"Filipe Dias"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-c02ece2e.js.map
