@@ -1,9 +1,11 @@
 # Ignite UI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/developer-jfilipedias-blue">
-  <img src="https://img.shields.io/github/license/jfilipedias/ignite-ui">
-</p>
+
+![Autor](https://img.shields.io/badge/developer-jfilipedias-blue)
+![Licença](https://img.shields.io/github/license/jfilipedias/ignite-ui)
+![Deploy Docs](https://github.com/jfilipedias/ignite-ui/actions/workflows/deploy-docs.yml/badge.svg)
+![Release](https://github.com/jfilipedias/ignite-ui/actions/workflows/release.yml/badge.svg)
+
 <br>
 
 O Ignite UI é uma implementação em [ReactJS](https://reactjs.org/) do design system desenvolvido para o projeto Ignite Call. Dessa forma, foi desenvolvido um monorepo composto por pacotes para tokens de ui, componentes em react, documentação dos componentes e tokens com [Storybook](https://storybook.js.org/) e configurações de lint e typescript. 
