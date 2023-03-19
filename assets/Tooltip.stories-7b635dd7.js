@@ -1,0 +1,2 @@
+import{f as i,B as t,T as s,g as e}from"./index-1d2d616b.js";import{j as r}from"./jsx-runtime-1becbe17.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";const d={title:"Surfaces/Tooltip ",component:i,args:{children:r(t,{css:{width:"$6"},children:r(s,{css:{display:"inline"},children:"26"})}),description:"October 26 - Available"},decorators:[o=>r(e,{children:o()})]},m={},T=["Primary"];export{m as Primary,T as __namedExportsOrder,d as default};
+//# sourceMappingURL=Tooltip.stories-7b635dd7.js.map
